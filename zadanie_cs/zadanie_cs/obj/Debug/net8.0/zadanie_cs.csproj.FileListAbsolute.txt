@@ -1,0 +1,14 @@
+C:\Users\Szymon\source\repos\zadanie_cs\zadanie_cs\zadanie_cs\bin\Debug\net8.0\zadanie_cs.exe
+C:\Users\Szymon\source\repos\zadanie_cs\zadanie_cs\zadanie_cs\bin\Debug\net8.0\zadanie_cs.deps.json
+C:\Users\Szymon\source\repos\zadanie_cs\zadanie_cs\zadanie_cs\bin\Debug\net8.0\zadanie_cs.runtimeconfig.json
+C:\Users\Szymon\source\repos\zadanie_cs\zadanie_cs\zadanie_cs\bin\Debug\net8.0\zadanie_cs.dll
+C:\Users\Szymon\source\repos\zadanie_cs\zadanie_cs\zadanie_cs\bin\Debug\net8.0\zadanie_cs.pdb
+C:\Users\Szymon\source\repos\zadanie_cs\zadanie_cs\zadanie_cs\obj\Debug\net8.0\zadanie_cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon\source\repos\zadanie_cs\zadanie_cs\zadanie_cs\obj\Debug\net8.0\zadanie_cs.AssemblyInfoInputs.cache
+C:\Users\Szymon\source\repos\zadanie_cs\zadanie_cs\zadanie_cs\obj\Debug\net8.0\zadanie_cs.AssemblyInfo.cs
+C:\Users\Szymon\source\repos\zadanie_cs\zadanie_cs\zadanie_cs\obj\Debug\net8.0\zadanie_cs.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\source\repos\zadanie_cs\zadanie_cs\zadanie_cs\obj\Debug\net8.0\zadanie_cs.dll
+C:\Users\Szymon\source\repos\zadanie_cs\zadanie_cs\zadanie_cs\obj\Debug\net8.0\refint\zadanie_cs.dll
+C:\Users\Szymon\source\repos\zadanie_cs\zadanie_cs\zadanie_cs\obj\Debug\net8.0\zadanie_cs.pdb
+C:\Users\Szymon\source\repos\zadanie_cs\zadanie_cs\zadanie_cs\obj\Debug\net8.0\zadanie_cs.genruntimeconfig.cache
+C:\Users\Szymon\source\repos\zadanie_cs\zadanie_cs\zadanie_cs\obj\Debug\net8.0\ref\zadanie_cs.dll
